@@ -1,0 +1,234 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "bmi_caluculator",
+      "cwd": "bmi_caluculator",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "bmi_caluculator (profile mode)",
+      "cwd": "bmi_caluculator",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "bmi_caluculator (release mode)",
+      "cwd": "bmi_caluculator",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "clima",
+      "cwd": "clima",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "clima (profile mode)",
+      "cwd": "clima",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "clima (release mode)",
+      "cwd": "clima",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "destini",
+      "cwd": "destini",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "destini (profile mode)",
+      "cwd": "destini",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "destini (release mode)",
+      "cwd": "destini",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "dice_app",
+      "cwd": "dice_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "dice_app (profile mode)",
+      "cwd": "dice_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "dice_app (release mode)",
+      "cwd": "dice_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "flutter_first_app",
+      "cwd": "flutter_first_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_first_app (profile mode)",
+      "cwd": "flutter_first_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "flutter_first_app (release mode)",
+      "cwd": "flutter_first_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "iampoor",
+      "cwd": "iampoor",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "iampoor (profile mode)",
+      "cwd": "iampoor",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "iampoor (release mode)",
+      "cwd": "iampoor",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "magic_8_ball",
+      "cwd": "magic_8_ball",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "magic_8_ball (profile mode)",
+      "cwd": "magic_8_ball",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "magic_8_ball (release mode)",
+      "cwd": "magic_8_ball",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "mi_card",
+      "cwd": "mi_card",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "mi_card (profile mode)",
+      "cwd": "mi_card",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "mi_card (release mode)",
+      "cwd": "mi_card",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "quizzler",
+      "cwd": "quizzler",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "quizzler (profile mode)",
+      "cwd": "quizzler",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "quizzler (release mode)",
+      "cwd": "quizzler",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "xylophone",
+      "cwd": "xylophone",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "xylophone (profile mode)",
+      "cwd": "xylophone",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "xylophone (release mode)",
+      "cwd": "xylophone",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "dart_application_1",
+      "cwd": "dart/dart_application_1",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_foundation",
+      "cwd": "dart/flutter_foundation",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_foundation (profile mode)",
+      "cwd": "dart/flutter_foundation",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "flutter_foundation (release mode)",
+      "cwd": "dart/flutter_foundation",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
